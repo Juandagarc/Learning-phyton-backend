@@ -1,7 +1,5 @@
 # Presentador por Juan David García Arce
 
-#hallar indice de masa corporal
-
 def hallar_imc(peso, altura):
     return peso / (altura ** 2)
 
